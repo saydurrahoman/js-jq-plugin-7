@@ -1,0 +1,28 @@
+/* aos */
+.custom{
+  margin-bottom: 30px;
+  margin-left: 300px;
+  padding: 80px;
+  width: 600px;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 20px;
+}
+.a_black{
+  background-color: black;
+
+}
+.a_red{
+  background-color: red;
+}
+.a_green{
+  background-color: green;
+}
+.a_aqua {
+  background-color: aqua;
+}
+.a_blue{
+  background-color: blue;
+}
